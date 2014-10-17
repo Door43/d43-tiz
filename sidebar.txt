@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tiz:home|Door43 (tiz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tiz|d43-tiz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tiz/archive/master.zip|d43-tiz.zip]]
+
+**Recent Changes**
+{{changes>ns = tiz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tiz|Ethnologue data]]
+
